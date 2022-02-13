@@ -30,3 +30,4 @@ Skills: JAVA / SELENIUM / TESTING / FLUTTER / CUCUMBER / TEST AUTOMATION
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SyedAshiqSorife)  
 
 ![Profile views](https://gpvc.arturio.dev/SyedAshiqSorife)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAshiqSorife)](https://github.com/anuraghazra/github-readme-stats)
