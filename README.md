@@ -1,4 +1,4 @@
-![I am a Test Automation Engineer and also Android developer](https://media-exp1.licdn.com/dms/image/C5616AQGzx-9NuSwGDg/profile-displaybackgroundimage-shrink_200_800/0/1644759554878?e=1650499200&v=beta&t=ncIIP1cy3kdexkvyOjQItiIpr1gwSbS-L6HTsnPahKw)
+![I am an Frontend app developer and also a Test Automation Engineer](https://media-exp1.licdn.com/dms/image/C5616AQGzx-9NuSwGDg/profile-displaybackgroundimage-shrink_200_800/0/1644759554878?e=1650499200&v=beta&t=ncIIP1cy3kdexkvyOjQItiIpr1gwSbS-L6HTsnPahKw)
 ### Hi there 👋, my name is Ashiq
 #### I am a Test Automation Engineer and also Android developer
 
