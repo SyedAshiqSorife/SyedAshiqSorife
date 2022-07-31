@@ -4,8 +4,8 @@
 
 I made this introduction for your clear idea of my skills and my github overview.
 
-- 🔭 I’m currently working on upwork 
-- 🌱 I’m currently learning Software Quality Assurance 
+- 🔭 I’m currently working on Flutter development 
+- 🌱 I learned Software Quality Assurance 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with test automation 
 - ⚡ Fun fact: I love to sing with me alone and dance in music😊 
